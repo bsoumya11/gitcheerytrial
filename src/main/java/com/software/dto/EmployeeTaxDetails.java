@@ -12,5 +12,5 @@ public class EmployeeTaxDetails {
 	private double taxAmount;
 	private double cessAmount;
 	private double serramount;
-
+    private String soumya;
 }
