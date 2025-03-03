@@ -11,6 +11,6 @@ public class EmployeeTaxDetails {
 	private double yearlySalary;
 	private double taxAmount;
 	private double cessAmount;
-	
+	private double serramount;
 
 }
